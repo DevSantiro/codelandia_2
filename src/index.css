@@ -1,3 +1,13 @@
+:root {
+  --bgSite: #f6f6f6;
+  --bgCard: #ebe9ea;
+  
+  --white: #fff;
+
+  --title: #181818;
+  --text: #474747;
+}
+
 * {
    box-sizing: boder-box;
    padding: 0;
@@ -32,6 +42,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: var(--bgSite);
 }
 
 code {

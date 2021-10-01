@@ -2,16 +2,17 @@
   margin-top: 2rem;
   text-align: center;
   h1 {
-    font-size: 21px;
+    font-size: 26px;
     font-weight: bold;
   }
   p {
     margin-top: 1rem;
+    color: var(--text);
   }
 }
 
 .container_destaque_cards{
-  padding: 5rem;
+  padding: 1rem;
 }
 
 .card {
